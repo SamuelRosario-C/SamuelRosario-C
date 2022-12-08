@@ -41,9 +41,8 @@
  
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=WillisSz&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+<div align="center">
   
-    
   <img width="40" src="https://i.pinimg.com/originals/21/db/d3/21dbd346a371c5bceffd6d61e491c3b0.gif"/>
     
   <img width="40" src="https://i.pinimg.com/originals/21/db/d3/21dbd346a371c5bceffd6d61e491c3b0.gif"/>
