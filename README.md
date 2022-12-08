@@ -36,8 +36,7 @@
 </div>
 
   
-  
- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=WillisSz&bg_color=0000000.0&color=ffffff&line=666666&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=WillisSz&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 
