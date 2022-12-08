@@ -28,20 +28,19 @@
   <a href="https://www.linkedin.com/in/samuel-willis123/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
+  </div>
    
-  <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WillisSz&show_icons=true&count_private=true&hide_border=true&title_color=DCDCDC&icon_color=FFD700&text_color=C0C0C0&bg_color=0d1117" alt="WillisSzgithub stats" /> 
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillisSz&layout=compact&hide_border=true&title_color=DCDCDC&text_color=C0C0C0&bg_color=0d1117" />
-</div>
+  <div align="center" >  
+    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WillisSz&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WillisSz&hide=javascript,html&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-  
+</div>
+ 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=WillisSz&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
 
 
-
-  <div align="center">
+  
     
   <img width="40" src="https://i.pinimg.com/originals/21/db/d3/21dbd346a371c5bceffd6d61e491c3b0.gif"/>
     
