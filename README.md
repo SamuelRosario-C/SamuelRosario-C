@@ -35,8 +35,8 @@
   <div align="center" >  
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WillisSz&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WillisSz&show_icons=true&theme=tokyonight)]
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WillisSz&show_icons=true&theme=tokyonight)
+  
 </div>
  
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=WillisSz&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
