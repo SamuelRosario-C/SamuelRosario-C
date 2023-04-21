@@ -1,31 +1,33 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=363636&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DCDCDC&size=35&center=true&vCenter=true&width=1000&lines=Oi,+Me+chamo+Samuel+Santos;Veja+meus+projetos+e+fiquem+avontade;Moro+em+Belém/Pará;Desenvolvedor+Front-end;Seja+bem-vindo(a)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DCDCDC&size=35&center=true&vCenter=true&width=1000&lines=Seja+bem-vindo(a)!+:%29;Me+chamo+Samuel+Rosário;Pegue+um+café+e+veja+os+projetos;Back-end+e+Front-end;Vamos+decolar!)](https://git.io/typing-svg)
 
 
 <div>
   <h1>Seja Bem-Vindo(a), ao meu GitHub.</h1>
-  <p>Desenvolvo projetos e programas desde Outubro/2021, Tenho 19 anos e estou fazendo curso para melhorar minha evolução como um Dev Front-end, atualmente tenho conhecimentos avançados em HTML(S), CSS(Flex,Responsivo) e JavaScript(Map, Fillter e Redunce). Minha meta agora é melhorar meus conhecimentos em JavaScript e Reactjs</p>
+  <h3>
+    O Mundo da programação é capaz de levar o mundo ao próximo nível!
+  </h3>
 
 </div>
 
 
 <div align="center"><br>
-  <img align="center" alt="Willis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Willis-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Willis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Willis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="samu-rosario-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="samu-rosario-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="samu-rosario-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="samu-rosario-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">>
 </div>
   
  <br>
- <br>
+ <br
  
  
 <div> 
   <a href = "mailto:willisdev5@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/samuel-willis123/" target="_blank">
+  <a href="https://www.linkedin.com/in/samu-rosario/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
   </div>
@@ -36,7 +38,7 @@
   
 </div>
  
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=WillisSz&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=samu-rosario&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
   
