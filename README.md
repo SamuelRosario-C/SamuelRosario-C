@@ -6,7 +6,7 @@
 <div>
   <h1>Seja Bem-Vindo(a), ao meu GitHub.</h1>
   <h3>
-    O Mundo da programação é capaz de levar o mundo ao próximo nível!
+    A programação é capaz de levar o mundo ao próximo nível!
   </h3>
 
 </div>
