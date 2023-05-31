@@ -1,16 +1,27 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=363636&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DCDCDC&size=35&center=true&vCenter=true&width=1000&lines=Seja+bem-vindo(a)!+:%29;Me+chamo+Samuel+Rosário;Pegue+um+café+e+veja+os+projetos;Back-end+e+Front-end;Vamos+decolar!)](https://git.io/typing-svg)
-
-
-<div>
-  <h1>Seja Bem-Vindo(a), ao meu GitHub.</h1>
-  <h3>
-    A programação é capaz de levar o mundo ao próximo nível!
-  </h3>
-
+<div align="center">
+  <h2>Oiê, me chamo Samuel Rosário, bem vindo ao meu GitHub!</h2>
 </div>
 
+<img width="100%" height="40" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjUwN2FmYTBhMzJhZDA1MDdmYTVmNjc4OWMwOTY0NzhkNWZhNzljNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/TIj8cbzWYKnE9ul3ab/giphy.gif">
+<div>
+  <h3>Breve biografia~</h3>
+  <p>Tenho 19 anos, sou de Belém e sou desenvolvedor web freelancer</p>
+  <ul >
+    <li>
+      <img width="15" src="https://thumbs.gfycat.com/RadiantCheerfulBigmouthbass.webp"> ~
+       Cursando na DevClub</li>
+    <li> 
+      <img width="15" src="https://gifs.eco.br/wp-content/uploads/2022/08/gifs-de-livros-7.gif"> ~ 
+       Estudo Node, React e Bibliotecas
+    </li>
+    <li>
+      <img width="15" src="https://media.tenor.com/9_X3DEtd-xoAAAAi/gmail.gif"> ~
+      <a href="mailto:willisdev5@gmail.com" title="">willisdev5@gmail.com</a></li>
+  </ul>
+  
+</div>
 
 <div align="center"><br>
   <img align="center" alt="SamuelRosario-C-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
