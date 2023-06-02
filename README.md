@@ -20,18 +20,48 @@
       <img width="15" src="https://media.tenor.com/9_X3DEtd-xoAAAAi/gmail.gif"> ~
       <a href="mailto:willisdev5@gmail.com" title="">willisdev5@gmail.com</a></li>
   </ul>
+  <p>O mundo é um Algoritimo...</p>
+</div>
+
+<di>
+  <h2>Metas de 2023</h2>
+  <ul>
+    <li>...</li>
+  </ul>
   
 </div>
 
 <div align="center"><br>
+  
+  ## Back-end <img height="30" width="40" src="https://i.pinimg.com/originals/16/02/b2/1602b26c05ee78120695d592a68b8912.gif"/>
+  <img align="center" alt="SamuelRosario-C-Node" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+  <img align="center" alt="SamuelRosario-C-Firebase" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
+  <img align="center" alt="SamuelRosario-C-Npm" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+  <img align="center" alt="SamuelRosario-C-Insomnia" width="40" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/insomnia-icon.png">
+  <img align="center" alt="SamuelRosario-C-APIs" width="40" src="https://cdn-icons-png.flaticon.com/256/1878/1878350.png">
+</div>
+
+<br/>
+  
+<div align="center"><br>
+
+  ## Front-end <img width="60" src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-286.gif"/>
   <img align="center" alt="SamuelRosario-C-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="SamuelRosario-C-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="SamuelRosario-C-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="SamuelRosario-C-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="SamuelRosario-C-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
-  <img align="center" alt="SamuelRosario-C-Npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+  <img align="center" alt="SamuelRosario-C-styled-components" height="30" width="40" src="https://avatars.githubusercontent.com/u/20658825?s=280&v=4" />
 </div>
-  
+
+<div align="center"><br>
+  ## Ferramenta
+ <!-- <img align="center" alt="SamuelRosario-C-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="SamuelRosario-C-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="SamuelRosario-C-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="SamuelRosario-C-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="SamuelRosario-C-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+  <img align="center" alt="SamuelRosario-C-Npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /> -->
+</div>
  <br>
  <br
  
