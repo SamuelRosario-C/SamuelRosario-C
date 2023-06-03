@@ -23,17 +23,23 @@
   <p>O mundo é um Algoritimo...</p>
 </div>
 
-<di>
-  <h2>Metas de 2023</h2>
+<div>
+  <h3>Metas de 2023~</h3>
   <ul>
-    <li>...</li>
+    <li>Aprimorar meu conhecimento na área de TI</li>
+    <li>Aprender novas tecnologias</li>
+    <li>Melhorar meu desenvolvimento pessoal com as pessoas</li>
+    <li>Me aprodundar de cabeça no BackEnd</li>
   </ul>
-  
 </div>
 
-<div align="center"><br>
+<img width="100%" height="40" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjUwN2FmYTBhMzJhZDA1MDdmYTVmNjc4OWMwOTY0NzhkNWZhNzljNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/TIj8cbzWYKnE9ul3ab/giphy.gif">
+
+
+<h3>Tecnologias~</h3>
+<div><br>
   
-  ## Back-end <img height="30" width="40" src="https://i.pinimg.com/originals/16/02/b2/1602b26c05ee78120695d592a68b8912.gif"/>
+  <h3>Back-end <img height="30" width="40" src="https://i.pinimg.com/originals/16/02/b2/1602b26c05ee78120695d592a68b8912.gif"/></h3>
   <img align="center" alt="SamuelRosario-C-Node" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
   <img align="center" alt="SamuelRosario-C-Firebase" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
   <img align="center" alt="SamuelRosario-C-Npm" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
@@ -43,27 +49,28 @@
 
 <br/>
   
-<div align="center"><br>
+<div><br>
 
-  ## Front-end <img width="60" src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-286.gif"/>
-  <img align="center" alt="SamuelRosario-C-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="SamuelRosario-C-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="SamuelRosario-C-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="SamuelRosario-C-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="SamuelRosario-C-styled-components" height="30" width="40" src="https://avatars.githubusercontent.com/u/20658825?s=280&v=4" />
-</div>
+  <h3>Front-end <img width="60" src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-286.gif"/></h3>
+  <img align="center" alt="SamuelRosario-C-Js" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="SamuelRosario-C-React" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="SamuelRosario-C-HTML" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="SamuelRosario-C-CSS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="SamuelRosario-C-styled-components" width="40" src="https://avatars.githubusercontent.com/u/20658825?s=280&v=4" />
+</div><br>
 
-<div align="center"><br>
-  ## Ferramenta
- <!-- <img align="center" alt="SamuelRosario-C-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="SamuelRosario-C-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="SamuelRosario-C-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="SamuelRosario-C-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="SamuelRosario-C-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
-  <img align="center" alt="SamuelRosario-C-Npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /> -->
+<div><br>
+  
+  <h3>Ferramenta <img align="center" width="40" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/e0/Enchanted_Wooden_Axe.gif" /></h3>
+  <img align="center" alt="SamuelRosario-C-Figma" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png">
+  <img align="center" alt="SamuelRosario-C-Insomnia" width="40" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/insomnia-icon.png">
+  <img align="center" alt="SamuelRosario-C-Git" width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
+  <img align="center" alt="SamuelRosario-C-vscode" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png">
 </div>
  <br>
- <br
+ <br>
+ 
+ <img width="100%" height="40" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjUwN2FmYTBhMzJhZDA1MDdmYTVmNjc4OWMwOTY0NzhkNWZhNzljNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/TIj8cbzWYKnE9ul3ab/giphy.gif">
  
  
 <div> 
