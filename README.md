@@ -29,7 +29,7 @@
     <li>Aprimorar meu conhecimento na área de TI</li>
     <li>Aprender novas tecnologias</li>
     <li>Melhorar meu desenvolvimento pessoal com as pessoas</li>
-    <li>Me aprodundar de cabeça no BackEnd</li>
+    <li>Me aprofundar de cabeça no BackEnd</li>
   </ul>
 </div>
 
